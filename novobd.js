@@ -23,18 +23,18 @@ export const produtos1 = [
             {
             avaliable: true,
             size: 'M',
-            sku:'fem-tshirt-gonew-color-blue-tam-s'
+            sku:'fem-tshirt-gonew-color-blue-tam-m'
             },
 
             {
             avaliable: true,
             size: 'L',
-            sku:'fem-tshirt-gonew-color-blue-tam-s'
+            sku:'fem-tshirt-gonew-color-blue-tam-l'
             },
             {
             avaliable: true,
             size: 'XL',
-            sku:'fem-tshirt-gonew-color-blue-tam-s'
+            sku:'fem-tshirt-gonew-color-blue-tam-xl'
             },
         ],
         img:'./produtos/1 - camiseta.PNG',
@@ -64,7 +64,7 @@ export const produtos1 = [
             {
             avaliable: true,
             size: 'M',
-            sku:'fem-cropped-puma-color-pink-s'
+            sku:'fem-cropped-puma-color-pink-m'
             },
 
             {
@@ -75,7 +75,7 @@ export const produtos1 = [
             {
             avaliable: true,
             size: 'XL',
-            sku:'fem-cropped-puma-color-pink-s'
+            sku:'fem-cropped-puma-color-pink-xl'
             },
         ],
         img:'./produtos/2 - camiseta.PNG',
@@ -99,24 +99,24 @@ export const produtos1 = [
             {
             avaliable: true,
             size: 'S',
-            sku:'fem-tshirt-champion-color-red'
+            sku:'fem-tshirt-champion-color-red-s'
             },
 
             {
             avaliable: true,
             size: 'M',
-            sku:'fem-tshirt-champion-color-red'
+            sku:'fem-tshirt-champion-color-red-m'
             },
 
             {
             avaliable: true,
             size: 'L',
-            sku:'fem-tshirt-champion-color-red '
+            sku:'fem-tshirt-champion-color-red-l'
             },
             {
             avaliable: true,
             size: 'XL',
-            sku:'fem-tshirt-champion-color-red'
+            sku:'fem-tshirt-champion-color-red-xl'
             },
         ],
         img:'./produtos/3 - camiseta.PNG',
@@ -140,24 +140,24 @@ export const produtos1 = [
             {
             avaliable: true,
             size: 'S',
-            sku:'fem-coat-puma-color-black'
+            sku:'fem-coat-puma-color-black-s'
             },
 
             {
             avaliable: true,
             size: 'M',
-            sku:'fem-coat-puma-color-black'
+            sku:'fem-coat-puma-color-black-m'
             },
 
             {
             avaliable: true,
             size: 'L',
-            sku:'fem-coat-puma-color-black'
+            sku:'fem-coat-puma-color-black-l'
             },
             {
             avaliable: true,
             size: 'XL',
-            sku:'fem-coat-puma-color-black'
+            sku:'fem-coat-puma-color-black-xl'
             },
         ],
         img:'./produtos/4 - agasalho.PNG',
@@ -182,24 +182,24 @@ export const produtos1 = [
             {
             avaliable: true,
             size: 'S',
-            sku:'fem-legging-pants-nike-color-black'
+            sku:'fem-legging-pants-nike-color-black-s'
             },
 
             {
             avaliable: true,
             size: 'M',
-            sku:'fem-legging-pants-nike-color-black'
+            sku:'fem-legging-pants-nike-color-black-m'
             },
 
             {
             avaliable: true,
             size: 'L',
-            sku:'fem-legging-pants-nike-color-black'
+            sku:'fem-legging-pants-nike-color-black-l'
             },
             {
             avaliable: true,
             size: 'XL',
-            sku:'fem-legging-pants-nike-color-black'
+            sku:'fem-legging-pants-nike-color-black-xl'
             },
         ],
         img:'./produtos/5 - calça.PNG',
@@ -223,24 +223,24 @@ export const produtos1 = [
             {
             avaliable: true,
             size: 'S',
-            sku:'fem-tshirt-team-brazil1-nike-color-yellow'
+            sku:'fem-tshirt-team-brazil1-nike-color-yellow-s'
             },
 
             {
             avaliable: true,
             size: 'M',
-            sku:'fem-tshirt-team-brazil1-nike-color-yellow'
+            sku:'fem-tshirt-team-brazil1-nike-color-yellow-m'
             },
 
             {
             avaliable: true,
             size: 'L',
-            sku:'fem-tshirt-team-brazil1-nike-color-yellow'
+            sku:'fem-tshirt-team-brazil1-nike-color-yellow-l'
             },
             {
             avaliable: true,
             size: 'XL',
-            sku:'fem-tshirt-team-brazil1-nike-color-yellow'
+            sku:'fem-tshirt-team-brazil1-nike-color-yellow-xl'
             },
         ],
         img:'./produtos/6 - time.PNG',
@@ -264,24 +264,24 @@ export const produtos1 = [
             {
             avaliable: true,
             size: 'S',
-            sku:'fem-tshirt-team-brazil2-nike-color-blue'
+            sku:'fem-tshirt-team-brazil2-nike-color-blue-s'
             },
 
             {
             avaliable: true,
             size: 'M',
-            sku:'fem-tshirt-team-brazil2-nike-color-blue'
+            sku:'fem-tshirt-team-brazil2-nike-color-blue-m'
             },
 
             {
             avaliable: true,
             size: 'L',
-            sku:'fem-tshirt-team-brazil2-nike-color-blue'
+            sku:'fem-tshirt-team-brazil2-nike-color-blue-l'
             },
             {
             avaliable: true,
             size: 'XL',
-            sku:'fem-tshirt-team-brazil2-nike-color-blue'
+            sku:'fem-tshirt-team-brazil2-nike-color-blue-xl'
             },
         ],
         img:'./produtos/7 - time.PNG',
@@ -305,24 +305,24 @@ export const produtos1 = [
             {
             avaliable: true,
             size: 'S',
-            sku:'fem-tshirt-team-saopaulo-adidas-color-white'
+            sku:'fem-tshirt-team-saopaulo-adidas-color-white-s'
             },
 
             {
             avaliable: true,
             size: 'M',
-            sku:'fem-tshirt-team-saopaulo-adidas-color-white'
+            sku:'fem-tshirt-team-saopaulo-adidas-color-white-m'
             },
 
             {
             avaliable: true,
             size: 'L',
-            sku:'fem-tshirt-team-saopaulo-adidas-color-white'
+            sku:'fem-tshirt-team-saopaulo-adidas-color-white-l'
             },
             {
             avaliable: true,
             size: 'XL',
-            sku:'fem-tshirt-team-saopaulo-adidas-color-white'
+            sku:'fem-tshirt-team-saopaulo-adidas-color-white-xl'
             },
         ],
         img:'./produtos/8 - time.PNG',
@@ -347,24 +347,24 @@ export const produtos1 = [
             {
             avaliable: true,
             size: 'S',
-            sku:'fem-tshirt-tank-top-fila-color-green'
+            sku:'fem-tshirt-tank-top-fila-color-green-s'
             },
 
             {
             avaliable: true,
             size: 'M',
-            sku:'fem-tshirt-tank-top-fila-color-green'
+            sku:'fem-tshirt-tank-top-fila-color-green-m'
             },
 
             {
             avaliable: true,
             size: 'L',
-            sku:'fem-tshirt-tank-top-fila-color-green'
+            sku:'fem-tshirt-tank-top-fila-color-green-l'
             },
             {
             avaliable: true,
             size: 'XL',
-            sku:'fem-tshirt-tank-top-fila-color-green'
+            sku:'fem-tshirt-tank-top-fila-color-green-xl'
             },
         ],
         img:'./produtos/9 - regata.PNG',
@@ -388,24 +388,24 @@ export const produtos1 = [
             {
             avaliable: true,
             size: 'S',
-            sku:'fem-tshirt-tank-top-nike-color-white'
+            sku:'fem-tshirt-tank-top-nike-color-white-s'
             },
 
             {
             avaliable: true,
             size: 'M',
-            sku:'fem-tshirt-tank-top-nike-color-white'
+            sku:'fem-tshirt-tank-top-nike-color-white-m'
             },
 
             {
             avaliable: true,
             size: 'L',
-            sku:'fem-tshirt-tank-top-nike-color-white'
+            sku:'fem-tshirt-tank-top-nike-color-white-l'
             },
             {
             avaliable: true,
             size: 'XL',
-            sku:'fem-tshirt-tank-top-nike-color-white'
+            sku:'fem-tshirt-tank-top-nike-color-white-xl'
             },
         ],
         img:'./produtos/10 - regata.PNG',
@@ -555,25 +555,25 @@ export const produtos1 = [
         {
             avaliable: true,
             size: 's',
-            sku: 'masc-tshirt-nike-color-yellow',
+            sku: 'masc-tshirt-nike-color-yellow-s',
         },
 
         {
             avaliable: true,
             size: 'm',
-            sku: 'masc-tshirt-nike-color-yellow',
+            sku: 'masc-tshirt-nike-color-yellow-m',
         },
 
         {
             avaliable: true,
             size: 'l',
-            sku: 'masc-tshirt-nike-color-yellow',
+            sku: 'masc-tshirt-nike-color-yellow-l',
         },
 
         {
             avaliable: true,
             size: 'xl',
-            sku: 'masc-tshirt-nike-color-yellow',
+            sku: 'masc-tshirt-nike-color-yellow-xl',
         },
     ],
     img:'./produtos/14 - camiseta.PNG',
@@ -597,25 +597,25 @@ export const produtos1 = [
             {
                 avaliable: true,
                 size: 's',
-                sku: 'masc-tshirt-nike-color-blue',
+                sku: 'masc-tshirt-nike-color-blue-s',
             },
 
             {
                 avaliable: true,
                 size: 'm',
-                sku: 'masc-tshirt-nike-color-blue',
+                sku: 'masc-tshirt-nike-color-blue-m',
             },
 
             {
                 avaliable: true,
                 size: 'l',
-                sku: 'masc-tshirt-nike-color-blue',
+                sku: 'masc-tshirt-nike-color-blue-l',
             },
 
             {
                 avaliable: true,
                 size: 'xl',
-                sku: 'masc-tshirt-nike-color-blue',
+                sku: 'masc-tshirt-nike-color-blue-xl',
             },
         ],
         img:'./produtos/15 - camiseta.PNG',
@@ -639,25 +639,25 @@ export const produtos1 = [
             {
                 avaliable: true,
                 size: 's',
-                sku: 'masc-tshirt-adidas-color-red',
+                sku: 'masc-tshirt-adidas-color-red-s',
             },
 
             {
                 avaliable: true,
                 size: 'm',
-                sku: 'masc-tshirt-adidas-color-red',
+                sku: 'masc-tshirt-adidas-color-red-m',
             },
 
             {
                 avaliable: true,
                 size: 'l',
-                sku: 'masc-tshirt-adidas-color-red',
+                sku: 'masc-tshirt-adidas-color-red-l',
             },
 
             {
                 avaliable: true,
                 size: 'xl',
-                sku: 'masc-tshirt-adidas-color-red',
+                sku: 'masc-tshirt-adidas-color-red-xl',
             },
         ],
         img:'./produtos/16 - camiseta.PNG',
@@ -681,25 +681,25 @@ export const produtos1 = [
             {
                 avaliable: true,
                 size: 's',
-                sku: 'masc-tshirt-adidas-color-white',
+                sku: 'masc-tshirt-adidas-color-white-s',
             },
 
             {
                 avaliable: true,
                 size: 'm',
-                sku: 'masc-tshirt-adidas-color-white',
+                sku: 'masc-tshirt-adidas-color-white-m',
             },
 
             {
                 avaliable: true,
                 size: 'l',
-                sku: 'masc-tshirt-adidas-color-white',
+                sku: 'masc-tshirt-adidas-color-white-l',
             },
 
             {
                 avaliable: true,
                 size: 'xl',
-                sku: 'masc-tshirt-adidas-color-white',
+                sku: 'masc-tshirt-adidas-color-white-xl',
             },
         ],
         img:'./produtos/17 - time.PNG',
@@ -723,25 +723,25 @@ export const produtos1 = [
             {
                 avaliable: true,
                 size: 's',
-                sku: 'masc-tanktop-nike-color-green',
+                sku: 'masc-tanktop-nike-color-green-s',
             },
 
             {
                 avaliable: true,
                 size: 'm',
-                sku: 'masc-tanktop-nike-color-green',
+                sku: 'masc-tanktop-nike-color-green-m',
             },
 
             {
                 avaliable: true,
                 size: 'l',
-                sku: 'masc-tanktop-nike-color-green',
+                sku: 'masc-tanktop-nike-color-green-l',
             },
 
             {
                 avaliable: true,
                 size: 'xl',
-                sku: 'masc-tanktop-nike-color-green',
+                sku: 'masc-tanktop-nike-color-green-xl',
             },
         ],
         img:'./produtos/18 - regata.PNG',
@@ -765,25 +765,25 @@ export const produtos1 = [
             {
                 avaliable: true,
                 size: 's',
-                sku: 'masc-tshirt-nike-color-blue',
+                sku: 'masc-tshirt-nike-color-blue-s',
             },
 
             {
                 avaliable: true,
                 size: 'm',
-                sku: 'masc-tshirt-nike-color-blue',
+                sku: 'masc-tshirt-nike-color-blue-m',
             },
 
             {
                 avaliable: true,
                 size: 'l',
-                sku: 'masc-tshirt-nike-color-blue',
+                sku: 'masc-tshirt-nike-color-blue-l',
             },
 
             {
                 avaliable: true,
                 size: 'xl',
-                sku: 'masc-tshirt-nike-color-blue',
+                sku: 'masc-tshirt-nike-color-blue-xl',
             },
         ],
         img:'./produtos/19 - camiseta.PNG',
@@ -807,25 +807,25 @@ export const produtos1 = [
             {
                 avaliable: true,
                 size: 's',
-                sku: 'masc-tshirt-puma-color-red',
+                sku: 'masc-tshirt-puma-color-red-s',
             },
 
             {
                 avaliable: true,
                 size: 'm',
-                sku: 'masc-tshirt-puma-color-red',
+                sku: 'masc-tshirt-puma-color-red-m',
             },
 
             {
                 avaliable: true,
                 size: 'l',
-                sku: 'masc-tshirt-puma-color-red',
+                sku: 'masc-tshirt-puma-color-red-l',
             },
 
             {
                 avaliable: true,
                 size: 'xl',
-                sku: 'masc-tshirt-puma-color-red',
+                sku: 'masc-tshirt-puma-color-red-xl',
             },
         ],
         img:'./produtos/20 - camiseta.PNG',
